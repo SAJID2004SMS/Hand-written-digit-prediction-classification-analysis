@@ -1,0 +1,2 @@
+# Hand-written-digit-prediction-classification-analysis
+Handwritten digit prediction classifies images of digits (0-9) using machine learning, often with the MNIST dataset. After preprocessing images, models like Convolutional Neural Networks (CNNs) are trained to recognize digit patterns. Once trained, the model predicts digits from new images, aiding in tasks like OCR and automated form processing.
